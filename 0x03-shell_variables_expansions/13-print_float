@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=$(($NUM * 1.00))
+echo NUM=$(($NUM * 1.00))
