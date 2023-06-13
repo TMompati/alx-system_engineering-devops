@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dR | wc -l | grep -m 10
+find . -type d | wc -l
